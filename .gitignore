@@ -1,0 +1,11 @@
+# Generated output figures
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
